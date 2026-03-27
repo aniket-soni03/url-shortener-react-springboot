@@ -35,7 +35,7 @@ Frontend: https://tiny-link-aniket.vercel.app
 
 ## ⚙️ Configuration
 
-## Update your `application.properties`
+## Update Your `application.properties`
 
 spring.datasource.url=jdbc:mysql://localhost:3306/url_shortener
 spring.datasource.username=your_username
